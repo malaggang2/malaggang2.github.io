@@ -4,15 +4,32 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+* Initiative, self-starter and independent thinker who is also solid team player
+* Deadline-driven, organized and able to multi-task
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Education
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+* The degree of Bachelor of Arts in Communication at University.
+
+## Work Experience
+
+* Overseas Sales Representative(Associate), Hyosung Corporation (Jan 2012 - May 2017)
+
+## Skills
+
+* **Language** - `English` / `Korean` / `Indonesian(Basic)`
+* **MS Office** - `Excel` / `Powerpoint` / `Word`
+* **Programming** - `Python` / `HTML` / `CSS` / `Django`
+
+## Achievements
 
 
-[jekyll-organization]: https://github.com/jekyll
+* [**This section will be filled**](#)
+
+   This field is not filled yet.
+
+***
+
+## Contact me
+
+[malaggang2@gmail.com](mailto:malaggang2@gmail.com)
